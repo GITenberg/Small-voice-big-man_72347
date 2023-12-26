@@ -1,0 +1,35 @@
+_repo: Small-voice-big-man_72347
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling, George L.
+    - Schelling
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Brown, Stewart Pierce
+    gutenberg_agent_id: '56650'
+    url: http://www.gutenberg.org/2009/agents/56650
+description: ''
+gutenberg_issued: '2023-12-06'
+identifiers:
+  gutenberg: '72347'
+language: en
+pgterms:marc905: 20231119084608brown
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Small voice, big man
+url: http://www.gutenberg.org/ebooks/72347
