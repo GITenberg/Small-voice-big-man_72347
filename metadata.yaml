@@ -10,12 +10,17 @@ contributor:
     birthdate: 1938
     gutenberg_agent_id: '25425'
     url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: archival
+  image_path: 72347-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Stewart Pierce
     gutenberg_agent_id: '56650'
     url: http://www.gutenberg.org/2009/agents/56650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72347#Small-voice-big-man
 gutenberg_issued: '2023-12-06'
 identifiers:
   gutenberg: '72347'
